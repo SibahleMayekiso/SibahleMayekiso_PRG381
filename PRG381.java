@@ -8,6 +8,7 @@ public class PRG381 {
         //comment 2
         //comment 3
         //comment 4
+        System.out.println("New Line code");
     }
     
 }
